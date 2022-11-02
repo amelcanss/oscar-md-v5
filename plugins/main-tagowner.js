@@ -17,7 +17,7 @@ Gak usah Malu-malu
   );
   let mentionedJid = [m.sender];
 };
-handler.customPrefix = /@6285850539404 |@6285850539404/i;
+handler.customPrefix = /@6282146218274 |@6282146218274/i;
 handler.command = new RegExp();
 
 module.exports = handler;
