@@ -83,8 +83,8 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
+global.packname = '×͜× ▭▬▭▬▭▬ 👑 ▭▬▭▬▭▬ ×͜×\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 𝗥𝗶𝗲𝗹𝗹𝗫𝗱 𝗫 𝘄𝗮𝗵𝘆𝘂 𝗮𝗻𝗶𝗺𝗲𝗸\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗞𝗮𝘆𝗹𝗮 : 082146218274\nﾒ 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 : 𝗥𝗶𝗲𝗹𝗹𝗯𝗼𝘁𝘇 𝗢𝗳𝗳𝗰\n⊟————————⊟'
+global.author = 'RiellGanzz'
 global.wm = '© Khurushi Md'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
