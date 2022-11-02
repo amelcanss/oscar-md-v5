@@ -202,7 +202,7 @@ const _0x38cd6a=_0x5d98;function _0x5d98(_0x25e3e9,_0x34161d){const _0x351343=_0
       ['Sewa Bot', '/sewa'],
       ['Owner', '/owner']
     ], m)*/
-    /*let url = `https://telegra.ph/file/ab1df70dfd5c2bac64da1.jpg`.trim()
+    /*let url = `https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg`.trim()
     let res = await fetch(url)
     let buffer = await res.buffer()
     let message = await prepareWAMessageMedia({ image: buffer }, { upload: conn.waUploadToServer })
