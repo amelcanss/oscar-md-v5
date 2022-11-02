@@ -10,7 +10,7 @@ let { video, description, username } = json.result
 await conn.sendFile(m.chat, video, 'video.mp4', `
 \n💌 *Deskripsi*: ${description}
 \n\n📛 *Username*: ${username}
-\n\n🏢 *By*: Jarott 
+\n\n🏢 *By*: R̸i̸e̸l̸l̸G̸a̸n̸z̸z̸
 `, m, false, { contextInfo: { forwardingScore: 999, isForwarded: true }})
 }
 
