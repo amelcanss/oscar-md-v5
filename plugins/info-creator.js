@@ -26,24 +26,24 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᯤ 𝗥𝗶𝗲𝗹𝗹 𝙊𝙛𝙘
+FN: ᯤ Fahil Ofc
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6282146218274:6282146218274@s.whatsapp.net
+item1.TEL;waid=6287833306677:6287833306677@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item2.EMAIL;type=INTERNET: Riellganzz5@gmail.com
+item2.EMAIL;type=INTERNET: mfatahillah099@gmail.com
 item2.X-ABLabel:📫 Gmail
 item3.ADR:;;📍 Acehnese - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
 item4.URL:https://youtube.com/channel/Riellbotz Offc
 item4.X-ABLabel:Youtube
-item5.URL:https://github.com/RiellTod1
+item5.URL:https://github.com/amelcanss
 item5.X-ABLabel:Github
-item6.URL:https://instagram.com/riellxd_4
-item6.X-ABLabel:Instagram Jarot
-item7.URL:http://Instagram.com/whyu_4
-item7.X-ABLabel: Instagram Wahyu animek
-item1.TEL;waid=6282146218274:6282146218274@s.whatsapp.net
+item6.URL:https://instagram.com/_pahilz26
+item6.X-ABLabel:Instagram Fahil
+item7.URL:http://Instagram.com/_pahilz26
+item7.X-ABLabel: Instagram Fahil
+item1.TEL;waid=6287833306677:6287833306677@s.whatsapp.net
 item1.X-ABLabel: Creator Bot
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
