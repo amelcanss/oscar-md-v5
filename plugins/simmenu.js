@@ -118,8 +118,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     },
     message: {
       extendedTextMessage: {
-        text: `𝘒𝘩𝘶𝘳𝘶𝘴𝘩𝘪-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎 Whatsapp ʙᴏᴛ`,
-        title: `𝘒𝘩𝘶𝘳𝘶𝘴𝘩𝘪-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎 Whatsapp ʙᴏᴛ`,
+        text: `Fahil-Botz V2-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎 Whatsapp ʙᴏᴛ`,
+        title: `Fahil-Botz V2-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎 Whatsapp ʙᴏᴛ`,
         jpegThumbnail: await (
           await fetch("https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg")
         ).buffer(),
