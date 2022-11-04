@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 
 *𝐇𝐚𝐥𝐨 𝐁𝐚𝐧𝐡 𝐉𝐚𝐧𝐠𝐚𝐧 𝐋𝐮𝐩𝐚 𝐉𝐨𝐢𝐧 && 𝐁𝐚𝐜𝐚 𝐑𝐮𝐥𝐞𝐬❗*
 ╔═══════════════════
-║ _*Group All*_  𝐉𝐚𝐫𝐨𝐭 ×͜×
+║ _*Group All*_  By Fahil ×͜×
 ╠═══════════════════
 ║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 1
 ║ https://chat.whatsapp.com/GduQSOuZ6p41HH8uQ4tFJD
